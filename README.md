@@ -8,4 +8,3 @@ This repository contains the scripts that generate the main results presented in
 * figures: Scripts that generate main figures in the manuscript.
 * utils: Some auxiliary functions.
 
-This repository is released under the Apache License 2.0 license, except for certain files derived from DeepMind’s GraphCast project. Those files retain their original license headers.
